@@ -45,7 +45,7 @@ class _HomeScreenState extends State<HomeScreen> {
             AppUtils.launchURL("https://github.com/Ajay9o9");
           },
           icon: FaIcon(FontAwesomeIcons.github),
-          color: Colors.green.shade700,
+          color: Colors.blue.shade700,
         ),
         elevation: 0.0,
         backgroundColor: Colors.transparent,

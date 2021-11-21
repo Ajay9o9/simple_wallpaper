@@ -33,7 +33,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   void startSplashScreenTimer() {
     Future.delayed(Duration(seconds: 3), () {
-      Get.offNamed('/home');
+      // Get.offNamed('/home');
     });
   }
 
